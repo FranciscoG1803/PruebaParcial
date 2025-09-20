@@ -6,6 +6,8 @@ using namespace std;
 const int cantidad_facultades = 5;
 const int cantidad_universidades = 3;
 
+//Todo bien hasta aqui
+
 struct Facultad {
     int numero_facultad;
     string carrera_principal;
